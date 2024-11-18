@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    background-color: #98FB98;
+}
+h1{
+    background-color: aquamarine;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+#topo{
+    height: 250px;
+    background-image: url(imagem.jpeg);
+    background-repeat: no-repeat;
+    float: top;
+    background-color: aquamarine;
+    width: 50%;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+#corpo{
+    font: 20px arial ;
+    background-color: lightblue;
+    width: 50%;
+    padding-right: 5%;
+    padding-left: 5%;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+#rodape{
+    background-color: green;
+    font: 35px arial;
+    float: bottom;
+    width: 50%;
+    padding-right: 5%;
+    padding-left: 5%;
+    margin-right: 25%;
+    margin-left: 25%;
+}
